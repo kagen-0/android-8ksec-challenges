@@ -9,6 +9,7 @@ The repository contains only my original notes, screenshots, and reports. Challe
 | # | Challenge | Write-up | PDF |
 |---|-----------|----------|-----|
 | 1 | FactsDroid | [View write-up](challenge-01-factsdroid/README.md) | [Download PDF](challenge-01-factsdroid/Solution1.pdf) |
+| 2 | AndroPseudoProtect | [View write-up](challenge-02-andropseudoprotect/README.md) | [Download PDF](challenge-02-andropseudoprotect/Solution2.pdf) |
 
 ## Tools Used
 
@@ -18,9 +19,10 @@ Tools used throughout the challenges may include:
 - Frida
 - Objection
 - Medusa
-- JADX
+- Jadx-gui
 - APKTool
 - HTTP Toolkit
+- Android Studio
 
 ## Disclaimer
 
