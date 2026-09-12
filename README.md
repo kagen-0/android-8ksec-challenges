@@ -10,6 +10,7 @@ The repository contains only my original notes, screenshots, and reports. Challe
 |---|-----------|----------|-----|
 | 1 | FactsDroid | [View write-up](challenge-01-factsdroid/README.md) | [Download PDF](challenge-01-factsdroid/Solution1.pdf) |
 | 2 | AndroPseudoProtect | [View write-up](challenge-02-andropseudoprotect/README.md) | [Download PDF](challenge-02-andropseudoprotect/Solution2.pdf) |
+| 3 | AndroDialer | [View write-up](challenge-03-androdialer/README.md) | [Download PDF](challenge-03-androdialer/Solution3.pdf) |
 
 ## Tools Used
 
