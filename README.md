@@ -12,6 +12,8 @@ The repository contains only my original notes, screenshots, and reports. Challe
 | 2 | AndroPseudoProtect | [View write-up](challenge-02-andropseudoprotect/README.md) | [Download PDF](challenge-02-andropseudoprotect/Solution2.pdf) |
 | 3 | AndroDialer | [View write-up](challenge-03-androdialer/README.md) | [Download PDF](challenge-03-androdialer/Solution3.pdf) |
 | 4 | DroidCave | [View write-up](challenge-04-droidcave/README.md) | [Download PDF](challenge-04-droidcave/Solution4.pdf) |
+| 5 | BorderDroid | [View write-up](challenge-05-borderdroid/README.md) | [Download PDF](challenge-05-borderdroid/Solution5.pdf) |
+| 6 | DroidPass | [View write-up](challenge-06-droidpass/README.md) | [Download PDF](challenge-06-droidpass/Solution6.pdf) |
 
 ## Tools Used
 
@@ -25,6 +27,7 @@ Tools used throughout the challenges may include:
 - APKTool
 - HTTP Toolkit
 - Android Studio
+- Ghidra
 
 ## Disclaimer
 
